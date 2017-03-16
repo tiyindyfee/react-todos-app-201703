@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+img {
+    width: 100%;
+}
+
+body {
+    background-image: linear-gradient(rgba(255,255,255,0.75), rgba(255,255,255,0.75)), url(/img/bg.png);
+}
+
+.done {
+    text-decoration: line-through;
+}
